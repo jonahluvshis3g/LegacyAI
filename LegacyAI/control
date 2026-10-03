@@ -1,0 +1,11 @@
+Package: com.example.roleplay6
+Name: LegacyAI
+Version: 3.0.0
+Architecture: iphoneos-arm
+Description: AI character roleplay for iOS 5 and later.
+Maintainer: LegacyAI
+Author: LegacyAI
+Section: Applications
+Depends: firmware (>= 5.0)
+Conflicts: com.example.roleplay5
+Replaces: com.example.roleplay5
