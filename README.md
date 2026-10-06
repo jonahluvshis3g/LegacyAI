@@ -1,4 +1,3 @@
-<img width="1376" height="2817" alt="Frame 3" src="https://github.com/user-attachments/assets/ed949d52-56df-4c1f-ac0f-6d7666a0aaf2" />
 LegacyAI
 LegacyAI is an AI character chatbot for iOS 5 and iOS 6. Create custom characters, chat with them individually, or bring them together in group conversations.
 Features include:
